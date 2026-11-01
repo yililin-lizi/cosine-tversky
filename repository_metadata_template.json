@@ -1,0 +1,26 @@
+{
+  "title": "Cosine and Tversky ontology-feature simulation data and code",
+  "creators": [
+    {
+      "name": "Lin, Yili",
+      "affiliation": "George Mason University"
+    },
+    {
+      "name": "Alemi, Farrokh",
+      "affiliation": "George Mason University"
+    }
+  ],
+  "version": "1.0.0",
+  "description": "Counts-based reproducibility materials for a paired ontology-feature retrieval simulation; licensed source terminology inputs are excluded.",
+  "keywords": [
+    "ontology matching",
+    "SNOMED CT",
+    "Tversky similarity",
+    "cosine similarity",
+    "simulation"
+  ],
+  "publication_date": "TO BE SET AT DEPOSIT",
+  "software_license": "MIT",
+  "data_license": "CC-BY-4.0",
+  "doi": "TO BE ASSIGNED BY REPOSITORY"
+}

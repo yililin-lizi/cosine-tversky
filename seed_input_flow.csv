@@ -1,0 +1,7 @@
+stage,count
+source_rows,100
+duplicate_rows_removed,12
+unique_seed_concepts,88
+eligible_seeds,71
+no_descendant_within_three_levels,16
+absent_from_active_snapshot,1

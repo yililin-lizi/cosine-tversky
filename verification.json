@@ -1,0 +1,7 @@
+{
+  "status": "passed",
+  "candidate_rows": 423549,
+  "reproduced_summaries": 162,
+  "reproduced_intervals": 648,
+  "bootstrap_replicates": 2000
+}
